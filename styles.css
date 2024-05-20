@@ -1,0 +1,29 @@
+.body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.grid-container{
+    display: flex;
+    width: 640px;
+    height: 640px;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+
+
+
+    }
+
+.container{
+   
+    width: 38px;
+    height: 38px;
+    border: 1px solid lightgray;
+}
